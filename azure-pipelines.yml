@@ -2,7 +2,7 @@ trigger:
 - master
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '9916ad44-8812-4d27-84c3-64fb216a6956'
+  azureSubscription: 'php-service'
   
   # Web app name
   webAppName: 'PHP-DEMO'
